@@ -1,0 +1,52 @@
+body{
+    background-image: url(../image/My\ Cycle\ III.png);
+    background-repeat: no-repeat;
+     background-size: cover; 
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+h5{
+    color: white;
+    text-align: center; 
+    margin-top: -20px;
+}
+
+form{
+    width: 500px;
+    height: 500px;
+    border: 5px solid white;
+    background-color: rgba(5, 118, 78, 0.594);
+    margin: auto;
+    margin-top: 50px;
+}
+input{
+  width: 350px;
+  margin-left: 70px;
+  height: 60px;
+  /* background-color: rgba(5, 118, 78, 0.594); */
+  border: none;
+  font-size: 15px;
+  background: none;
+  border-bottom: 2.5px solid green; 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    margin-top: 46px;
+    height: 35px;
+    width: 100px;
+    margin-left: 205px;
+color: white;
+    border: 1px solid white;
+    background-color: rgba(6, 168, 63, 0.521);
+}
+p{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
